@@ -1,0 +1,9 @@
+student_name = "Mohamed"
+student_id = 42025427
+gpa= 3.2
+is_passed = True
+
+print (student_name)
+print (student_id)
+print (gpa)
+print (is_passed)
