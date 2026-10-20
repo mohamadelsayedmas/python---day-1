@@ -1,0 +1,11 @@
+degree =int(input ())
+if degree >=90:
+    print ("excellent")
+elif degree >=80:
+    print ("very good")
+elif degree >=70:
+    print ("good ")
+elif degree >=50:
+    print ("acceptable")
+else : 
+    print ("Precipitate")
