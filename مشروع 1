@@ -1,0 +1,5 @@
+print (" ---- age in days calculator ---- ")
+age_years =input(" Enter your age in years : ")
+age_years =int(age_years)
+age_days =age_years*365
+print(f"You have lived for {age_days} days.")
