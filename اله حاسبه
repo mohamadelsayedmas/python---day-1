@@ -1,0 +1,20 @@
+while True:
+    x = int(input("0:"))
+    if x == 0:
+        print("Exit")
+        break
+    y = int(input("2:"))
+    op = input("/*+-:")
+    if op == "+":
+        print(f"Output ={x+y}")
+    elif op == "-":
+        print(f"Output ={x-y}")
+    elif op == "*":
+        print(f"Output ={x*y}")
+    elif op == "/":
+        if y != 0:
+            print(f"Output ={x/y}")
+        else:
+            print("We can't divide by zero")
+    else:
+        print("Error process")
