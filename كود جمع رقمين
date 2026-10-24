@@ -1,0 +1,8 @@
+def add_numbers(a, b):
+    return a + b
+    
+    
+x =int(input ("3:"))
+y =int(input ("3:"))
+
+print (f"the total = {add_numbers(x, y)}")
