@@ -1,0 +1,4 @@
+students = ["Mohamed", "Sara", "ahmed"]
+students.append ("Hamo")
+students.remove ("Sara")
+print (students)
