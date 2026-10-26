@@ -1,0 +1,6 @@
+words1 =input('Enter word :')
+count =0
+for c in words1:
+    if c !=' ' :
+        count +=1
+print (count)
