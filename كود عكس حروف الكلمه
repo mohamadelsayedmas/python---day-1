@@ -1,0 +1,5 @@
+word = input (" Ahmed : ")
+z = ""
+for g in word :
+    z = g + z
+print (z)
