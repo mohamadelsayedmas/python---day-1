@@ -1,0 +1,9 @@
+Students = { "Mohamed" : "88" , "Sara" : "90" , "Hoda" : "89" }
+
+Name = input (" Who are you looking for ? ")
+
+if Name in Students :
+    print (f" degree {Name} = {Students [Name]} ")
+    
+else :
+    print (" Not available ")
