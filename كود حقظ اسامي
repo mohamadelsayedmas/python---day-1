@@ -1,0 +1,9 @@
+names = ["gad" , "rty" , "uoi"]
+
+with open ( "students.txt" , "w" ) as f :
+    
+    for name in names :
+        
+        f.write(name + "\n")
+        
+print ( names , "saved")
