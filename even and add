@@ -1,0 +1,11 @@
+number = int(input (" Enter your name :"))
+
+if number %8==0 :
+    
+    print ( number , "even number" )
+    
+else :
+    
+
+
+    print ( number ,"add number")
