@@ -1,0 +1,5 @@
+number = int(input ("Enter a name "))
+
+for i in range (1,80) :
+
+    print (number, "x" , i, "=" , number * i)
