@@ -1,0 +1,5 @@
+text = input ("Enter a text : ")
+
+reversed_text = (text [:: -1])
+
+print ("original text" , text , "reversed_text" , reversed_text)
