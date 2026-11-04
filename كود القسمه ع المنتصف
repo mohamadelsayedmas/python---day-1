@@ -1,0 +1,19 @@
+numbers = input (" Enter number separated space : ").split()
+
+newNumbers = []
+
+for x in numbers :
+    
+    newNumbers.append(int (x))
+    
+total = 0
+count = 0
+
+for num in newNumbers :
+
+    total +=num
+    count +=1
+
+avg = total/count
+
+print ("Avg" , avg)
