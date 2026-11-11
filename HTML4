@@ -1,0 +1,56 @@
+<!DOCTYPE>
+<html>
+    <body>
+        
+        
+        <h1>My Favorite Things</h1>
+        
+        
+        <h2><mark>Ordered List - My Top 3 Favorite Foods</mark></h2>
+        <ol
+            started="1" type="i" >
+            
+            <li>Pizza</li>
+            <li>Chocolat Cake</li>
+            <li>Ice Cream</li>
+        </ol>
+        
+        
+        
+        <h2><mark>Unorderd List - Things to Do on a Lazy Sunday</mark></h2>
+        <ul>
+            <li> Read a book</li>
+            <li>Which a movie</li>
+            <li>Go to Cineam</li>
+        </ul>
+        
+        
+        <h2><mark>Ordered List - Creating a New Habit</mark></h2>
+        
+        <ol
+        
+           started="1" type="a" >
+            <li>Step1 : <em>identify Your Habit</em></li>
+            <li><strong> Step : 2 Set a clear Goal</strong></li>
+            <li><u>Step3 : Start Small</u></li>
+            <li>Step4 : Create a Routine</li>
+            <li>Step5 : Trac Your Progress</li>
+            <li><mark>Enioy!</mark></li>
+            
+        </ol>
+        
+        <h2><mark>Unorderd List- Benefits of Leaning HTML</mark></h2>
+        
+        <ul>
+            <li>Create Website</li>
+            <li>Understand web development</li>
+            <li>Express creativity online</li>
+            
+            
+            
+        </ul>
+        
+        
+        
+    </body>
+</html>
