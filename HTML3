@@ -1,0 +1,45 @@
+<!DOCTYPE>
+<HTML>
+    <body>
+        
+       <h1> ordered List </h1>   
+        
+        <ol started="1" type="1" reversed >
+            
+            <li>step1</li>
+            <li>step2</li>
+            <li>step3</li>
+            <li>step4</li>
+            <li>step5</li>
+    
+
+    
+        </ol>
+        
+       <h2> unordered List </h2>   
+        
+        <ul>
+            
+            <li>step1</li>
+            <li>step2</li>
+            <li>step3</li>
+            <li>step4</li>
+            <li>step5</li>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </ul>
+        
+
+   
+   </body>
+
+    
+</HTML>
