@@ -1,0 +1,122 @@
+<!DOCTYPE Html>
+<html>
+    <body>
+        
+        <!--th table head 
+        
+        td table data
+        
+        tr table row -->
+        
+        <table>
+        
+        <style>
+
+            table,td,th {
+
+                border : solid red 1px ;
+                
+                border-collapse : collapse ;
+            }
+
+        </style>
+        
+        <thead>
+            
+        <!DOCTYPE Html>
+<html>
+    <body>
+        
+        <!--th table head 
+        
+        td table data
+        
+        tr table row -->
+        
+        <table>
+        
+        <style>
+
+            table,td,th {
+
+                border : solid red 1px ;
+                
+                border-collapse : collapse ;
+            }
+
+        </style>
+        
+        <tbody>
+            <tr>
+              
+           <th>---Saoil---</th>   
+              
+            <th>---typically---</th>
+              
+              
+          </tr>  
+    
+    
+    
+    
+    
+        </thead>
+
+
+        
+
+            <tr>
+
+                <td>
+
+                    Ahmed
+
+                </td>
+
+                <td>
+
+                    30$
+
+                </td>
+
+            </tr>
+
+            <tr>
+
+                <td>Mohamed</td>
+                <td>8000$</td>
+
+
+            </tr>
+
+          </tbody>
+          
+          <tfood>
+
+            <tr>
+
+                <td>Romio</td>
+                <td>6000$</td>
+
+
+            </tr>
+
+
+           </tfood> 
+          
+        </table>
+
+
+    </body>
+
+
+
+</html>
+        </table>
+
+
+    </body>
+
+
+
+</html>
