@@ -1,0 +1,64 @@
+<!DOCTYPE HTML>
+<html>
+    <body>
+        <h2>Information</h2>
+        <form>
+            
+         
+           
+           
+           
+           <dive>
+               
+               
+            <label for="email"  > Email</label>
+            <input required id="email"   type = "email" placeholder = "email" >
+               
+               
+               
+           </dive>
+           
+           <br>
+           <br>
+           
+           <dive>
+               
+               
+               <label for="password" > Password </label>
+               <input required  type ="password " id="password "   >
+               
+               
+               
+               
+               
+               
+           </dive>
+           
+           <br>
+           <br>
+           
+           <input type ="submit" value ="let's get started" >
+           
+           
+        
+            
+            
+        </form>
+        
+        
+        
+        
+        
+      
+    </body>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</html>
