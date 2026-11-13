@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <form>
+
+         <h3>Countries</h3>
+
+            <label for = "country" > Country</label>
+
+            <select id ="country" name = "Country" >
+
+                <optgroup label = "countries" >
+                    <option selected value = "egypt" >Egypt</option>
+                    <option value = "china" >China</option>
+                    <option value = "iraq" >Iraq</option>
+                    <option value = "palestin" >Palestin</option>
+
+                </optgroup>
+
+            </select>
+
+            <br>
+            <br>
+
+            <input type = "submit" >
+
+        </form>
+
+    </body>
+</html>
