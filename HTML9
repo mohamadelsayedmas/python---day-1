@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <form>
+            
+        <dive>
+            
+            <label for="Date" > Date </label>
+            <input  id="Date" type = "date" >
+            
+            
+        </dive>
+        
+        <br>
+        <br>
+        
+        <dive>
+            
+          <label for="Monsth" > Monsth </label> 
+          <input  id="Monsth" type="month" >
+            
+            
+        </dive>
+        
+        <dive>
+        
+        
+        <br>
+        <br>
+        
+        <label for="Time" > Time </label>
+        <input  id="Time" type ="time" >
+            
+            
+            
+          </dive>
+          
+          <br>
+          <br>
+          <dive>
+          
+          
+         <label for = "date-time local" > date-time local </label>
+         <input  id="date-time local" type="date-time local" >
+         
+         </dive>
+         
+         </form>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </body>
+    
+    
+    
+</html>
