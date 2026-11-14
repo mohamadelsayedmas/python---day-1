@@ -1,0 +1,76 @@
+DOCTYPE Html>
+<html>
+    
+    <body>
+        
+        <form>
+            
+            <input type = "text" name = "title" placeholder = "Article" maxlength="13"
+            
+            minlength="2"        
+            
+            required 
+            
+            
+            autofocus
+            
+            >
+            
+            <br>
+            <br>
+            
+            
+            
+            <textarea placeholder = "Content of Article"  name =  "ContentOfArticle"
+            
+            
+            
+            
+            
+            
+            cols = "90" rows =  "9" required
+            
+            maxlength="43"
+            
+            minlength="3"         
+                
+                
+            ></textarea></textarea>
+            
+            <br>
+            <br>
+            
+            
+            <input type = "submit" >
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </form>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    </body>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</html>
