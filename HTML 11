@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h3>Fruits</h3>
+
+<form>
+    
+    <input name = "Fruits"  list ="Fruits" />
+    
+    <datalist id="Fruits" >
+        
+ 
+    
+        <option value="apple">apple</option>
+
+        <option value="banana">banana</option>
+
+        <option value="Coconut">Coconut</option>
+
+        <option value="Avocados">Avocados</option>
+
+    </datalist>
+
+    <br><br>
+
+    <input type="submit" />
+
+</form>
+
+</body>
+</html>
