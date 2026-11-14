@@ -1,0 +1,107 @@
+<!DOCTYPE Html>
+<html>
+    <body>
+        
+        <h2>Contact US</h2>
+        
+      <from>
+          
+        <fieldset>
+            
+            <legend>Send US A message</legend>
+            
+            <!--input for name-->
+            
+           <p>
+               
+                        <label for = "name" > Name : </label>
+            
+             <input type = "text" id = "name" auto focus
+             
+             placeholder = "Enter your name "  required name = "Name" >
+            
+               
+               
+               
+           </p>
+           
+           <!--input for email-->
+            
+            <p>
+                
+                
+                            <label for = "email" > Email : </label>
+            
+             <input type = "email" id = "email" 
+             
+             placeholder = "Enter your email " required name = "Email">
+            
+            
+                
+                
+                
+                
+                
+                
+            </p>
+            
+            <!--input for message-->
+            
+            <p>
+                
+            <label for = "message" >  Message</label>
+            
+            <br>
+            
+            <textarea
+             name = "Content"   
+             cols =   "50"
+             rows = "8"  
+             id = "message"
+             placeholder = "type your message"  >
+            
+                
+                
+                
+            </textarea>
+            
+            <br>
+            
+            <input type = "submit" >
+            <input type = "reset" >
+                
+                
+                
+                
+            </p>
+            
+            
+            
+            
+            
+        </fieldset>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </form>  
+      
+    </body>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</html>
