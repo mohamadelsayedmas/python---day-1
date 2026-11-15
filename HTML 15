@@ -3,6 +3,11 @@
     <head>
 
         <title>Learn Simply</title>
+
+ <!---صوره في رأس الموقع--->
+
+        <link href= "logo.png <!---صوره اختياري---> " type = "image/x-icon rel = " icon " />
+
         <meta name = "viewport" content = "width=device-width" initial-scale = "1.0" />
         <meta charset = "utf-8" />
         <meta name = "description" content = "free web tutorials" />
