@@ -1,0 +1,24 @@
+public class Main
+{
+	public static void main(String[] args) {
+		
+		// variables
+		
+		int again = 45 ;
+		String  ayt = "Ahmed" ;
+		
+		boolean zx = false ;
+		
+		System.out.println(zx);
+		System.out.println(ayt);
+		System.out.print(again);
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}
