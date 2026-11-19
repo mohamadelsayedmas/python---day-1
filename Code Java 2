@@ -1,0 +1,33 @@
+public class Main
+{
+	public static void main(String[] args) {
+		
+		
+
+	    
+	    // 20 1 -2
+	    int age = 33 ;
+	    
+	    // 4.5 1.2 -3.6
+	    double vis = 4.764257896532564 ;
+	    
+	    // 3.9 -3.6 1.5	
+	    float serial_numbers = 1.8646433f ;
+	    
+	    
+	    System.out.println(age);
+	    System.out.println(vis);
+	    System.out.print(serial_numbers);
+	    
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}
