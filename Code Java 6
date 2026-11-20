@@ -1,0 +1,35 @@
+import java.util.Scanner;
+
+public class Main
+{
+	public static void main(String[] args) {
+	
+	
+	Scanner input = new Scanner(System.in);
+	// variables
+	
+	int sum = 0;
+	
+	System.out.print("Enter the grade for the first subject : ");
+	int grade1 = input.nextInt();
+	
+	System.out.print("Enter the grade for the first subject : ");
+	int grade2 = input.nextInt();
+	
+	System.out.print("Enter the grade for the first subject  : ");
+	int grade3 =  input.nextInt();
+	
+	
+	sum = grade1 + grade2 + grade3;
+	
+	System.out.print("Sum : " + sum);
+	
+	
+	
+	
+	
+	
+	
+	
+	}
+}
