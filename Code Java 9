@@ -1,0 +1,25 @@
+import java.util.Scanner;
+public class Main
+{
+	public static void main(String[] args) {
+		
+		// () very strong 
+		// * / % strong
+		// + - weak
+		
+		int result = 6+(4*2)-(10/2)%12 ;
+		
+		System.out.println(result);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}
