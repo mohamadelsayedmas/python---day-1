@@ -1,0 +1,27 @@
+import java.util.Scanner;
+public class Main
+{
+	public static void main(String[] args) {
+		
+		// Modules %
+		
+		// 1 : number % sameNumber = 0
+		
+		System.out.println(1000%1000);
+		
+		// 2 : small number % big number = small number 
+		
+		System.out.println(1000%1001);
+		
+		// 3 : big number % small number = big-small 
+		
+		System.out.println(8%3);
+		
+		System.out.println(8%1);
+		
+		
+		
+		
+		
+	}
+}
